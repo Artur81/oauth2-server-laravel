@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace LucaDegasperi\OAuth2Server\Lumen;
+namespace Czim\OAuth2Server\Lumen;
 
-use LucaDegasperi\OAuth2Server\OAuth2ServerServiceProvider as ServiceProvider;
+use Czim\OAuth2Server\OAuth2ServerServiceProvider as ServiceProvider;
 
 /**
  * This is the Lumen oauth server service provider class.
